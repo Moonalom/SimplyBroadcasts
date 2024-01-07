@@ -1,0 +1,4 @@
+name: SimplyBroadcast
+version: '1.0-SNAPSHOT'
+main: raze.custom.SimplyBroadcast
+api-version: '1.16'
